@@ -84,4 +84,6 @@ pyperclip.copy(formular)
 
 和之前一样，这个小程序只是一时兴趣的练手作，实际上如果会latex或者unicode格式的话，直接使用word自带公式编辑器或者mathtype也很简单，但是如果不会这两种的话，这个小程序也许能帮你省下一点时间。
 
+程序运行方式：运行foreground.py文件后，在需要输入公式的word文件中按'ctrl+`'运行
+
 项目Github地址：https://github.com/SanLiWuXun/formular-auto-input-with-python-in-word
